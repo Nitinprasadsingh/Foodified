@@ -71,12 +71,12 @@ We built a responsive frontend that:
 
 ## 🔥 Team Roles
 
-| Name     | Role                            |
-|----------|---------------------------------|
-| Som      | Frontend, Vision, Storytelling  |
-| Nitin    | Power BI Dashboards, Strategist |
-| Khushi   | Presentation & Visual Design    |
-| Amandeep | Visionary Architect             |
+| Name                                 | Role                            |
+|--------------------------------------|---------------------------------|
+| Som Satwik Deo (24cse408)            | Frontend, Vision, Storytelling  |
+| Nitin Prasad Singh (24cseaiml205)    | Power BI Dashboards, Strategist |
+| Khushi Kumari (24cse298)             | Presentation & Visual Design    |
+| Amandeep Kumar (24cseaiml179)        | Visionary Architect             |
 
 > ✅ All submission rules followed. Ready to make an impact.
 
