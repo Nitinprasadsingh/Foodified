@@ -49,7 +49,7 @@ We built a responsive frontend that:
 
 ## 📽️ Demo Video (3–5 min)
 
-🎬 [Click here to watch our Demo Video]((https://drive.google.com/file/d/1w0-dGmqqt7tdBt_YegHpsNhqa1eDWBeU/view?usp=sharing))
+🎬 [Click here to watch our Demo Video](https://drive.google.com/file/d/1w0-dGmqqt7tdBt_YegHpsNhqa1eDWBeU/view?usp=sharing)
 
 > The video covers our motivation, dashboard walkthrough, frontend demo, and vision ahead.
 
