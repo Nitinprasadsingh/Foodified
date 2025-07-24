@@ -49,7 +49,7 @@ We built a responsive frontend that:
 
 ## 📽️ Demo Video (3–5 min)
 
-🎬 [Click here to watch our Demo Video](PASTE_YOUTUBE_OR_DRIVE_LINK_HERE)
+🎬 [Click here to watch our Demo Video]((https://drive.google.com/file/d/1w0-dGmqqt7tdBt_YegHpsNhqa1eDWBeU/view?usp=sharing))
 
 > The video covers our motivation, dashboard walkthrough, frontend demo, and vision ahead.
 
@@ -57,7 +57,7 @@ We built a responsive frontend that:
 
 ## 🖼️ Presentation Deck
 
-🎞️ [Click to view our Google Slides Presentation](PASTE_PRESENTATION_LINK_HERE)
+🎞️ [Click to view our Google Slides Presentation](https://docs.google.com/presentation/d/1vKhPVzmMuecB3FmxRrYZjPyHphby1YmF/edit?usp=sharing&ouid=104422951881932955632&rtpof=true&sd=true)
 
 ---
 
